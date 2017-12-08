@@ -1,2 +1,1 @@
-git is a version control system.
-Git is from software
+Creating a new branch is quick.
